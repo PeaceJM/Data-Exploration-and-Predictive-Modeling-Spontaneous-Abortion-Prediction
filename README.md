@@ -31,3 +31,14 @@ if(require(survival)){
   detach()  # survival (conflicts)
 }
 ```
+-   Visualizing the relationship between spontaneous abortion case occurrence and age / education / induced abortions.
+
+-   Identifying the groups at risk via useful analyzes and graphs.
+
+-   Building a well-developed generalized linear model.
+
+-   Predicting spontaneous abortion percentages among the groups.
+
+-   Testing the robustness of the model via leave-one-out cross validation.
+
+  Refer to the pdf document for the full mardown!
