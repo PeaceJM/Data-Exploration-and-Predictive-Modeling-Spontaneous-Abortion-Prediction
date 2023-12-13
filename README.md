@@ -42,3 +42,25 @@ if(require(survival)){
 -   Testing the robustness of the model via leave-one-out cross validation.
 
   Refer to the pdf document for the full mardown!
+
+# Resources
+
+[Esophageal Cancer Project](https://pjournal.github.io/boun01-canaytore/assignment3_esoph)
+
+[Induced abortion and secondary infertility study](https://obgyn.onlinelibrary.wiley.com/doi/10.1111/j.1471-0528.1976.tb00904.x)
+
+[Infertility data](https://stat.ethz.ch/R-manual/R-devel/library/datasets/html/infert.html)
+
+[Linear Regression Analysis](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2992018/)
+
+[Practical advice on variable selection and reporting using Akaike information criterion](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10523071/)
+
+[Common pitfalls in statistical analysis: Logistic regression](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5543767/)
+
+[Cross-validation](https://en.wikipedia.org/wiki/Cross-validation_(statistics))
+
+[Cross-validation under separate sampling: strong bias and how to correct it](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4296143/){.uri}
+
+[Impact of the Choice of Cross-Validation Techniques on the Results of Machine Learning-Based Diagnostic Applications](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8369053/){.uri}
+
+[How to Calculate RMSE in R](https://www.statology.org/how-to-calculate-rmse-in-r/)
